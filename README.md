@@ -1,7 +1,3 @@
 server1 : TK7xHQAmkm1UGUNYkBkme6Dzk47NStXD4n
 
-
-server2 : TSW2ZBt7RXgfdLKGQ7Y5X5sMDovDKrKoBx
-
-
-server3 : TB5y2tF39EWZCsao1xTvEudeLUXrV3xD7k
+server2 : TB5y2tF39EWZCsao1xTvEudeLUXrV3xD7k
