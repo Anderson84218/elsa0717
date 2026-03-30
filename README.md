@@ -2,4 +2,8 @@ server1 : TK7xHQAmkm1UGUNYkBkme6Dzk47NStXD4n
 
 server2 : TSW2ZBt7RXgfdLkGQ7Y5X5sMDovDKrKoBx
 
+server3 : TRFGYJPZPTrdfuRdRu7LD7c8gVhTXRSPt1
+
+server10:TMNVFw3TS9xHgbcgHWepBfNiBJZsw2g6ZY
+
 Oxserver : TKvY2bcGF7trfVb7WzFoAxTg5ztA87b2ew
