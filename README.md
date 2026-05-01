@@ -12,3 +12,5 @@ server5 : TPAodwVU9LDD1DDPVKqAfivqoKWxZrybzK
 Oxserver : TKvY2bcGF7trfVb7WzFoAxTg5ztA87b2ew
 
 Sun Tom Server1 : TKLppbJCjWWkdQzDCSZTxb5AyRavtzaHB5
+
+Blue Luck server1 : TLzfYsYrLBgZNLyCagTvzBNXYdTuBLPyby
